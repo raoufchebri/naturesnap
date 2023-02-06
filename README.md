@@ -1,4 +1,4 @@
-# JSWorld demo
+## JSWorld demo
 
 ## Getting Started
 
